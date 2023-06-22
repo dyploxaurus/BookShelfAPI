@@ -1,0 +1,25 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "Bookshelf API for Dicoding submission",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "C149DSY3705",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2",
+    "@hapi/inert": "^7.1.0",
+    "nanoid": "^3.1.20"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyploxaurus/BookShelfAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dyploxaurus/BookShelfAPI/issues"
+  },
+  "homepage": "https://github.com/dyploxaurus/BookShelfAPI#readme"
+}
